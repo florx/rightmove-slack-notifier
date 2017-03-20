@@ -1,0 +1,19 @@
+{
+  "name": "rightmove-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jake Hall",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.22.0",
+    "each": "^0.6.1",
+    "moment": "^2.17.1",
+    "request": "^2.80.0",
+    "slack-node": "^0.1.8",
+    "throttled-request": "^0.1.1"
+  }
+}
